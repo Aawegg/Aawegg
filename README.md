@@ -1,9 +1,6 @@
 ### Aaweg Bhaladhare
 
-I build evaluation harnesses and agent infrastructure. Pune, India — open to remote.
-
-Currently looking for **AI Product Owner / Forward-Deployed / LLM-eval** roles where the day-one job is "make the model honest about what it doesn't know."
-
+I build evaluation harnesses and agent infrastructure. Pune, India.
 ---
 
 #### What I'm working on
@@ -23,7 +20,7 @@ The win comes from architecture, not the model. A single-shot Gemini baseline wi
 
 #### Background
 
-Ex-Turing AI evaluation team-lead — designed grading rubrics, spotted reward-hacking, and rewrote prompts that bumped agreement from "throw darts" to "actually scores reasoning". I care most about the boring half of agent work: making outputs measurable, falsifiable, and hard to fake.
+Turing AI evaluation team-lead — designed grading rubrics, spotted reward-hacking, and rewrote prompts that bumped agreement from "throw darts" to "actually scores reasoning". I care most about the boring half of agent work: making outputs measurable, falsifiable, and hard to fake.
 
 Hardware-friendly software is the other half. `nibblecore` is what happens when "make inference cheap on the laptop you already own" turns into a side quest.
 
@@ -33,4 +30,4 @@ Python (pydantic, pytest, click) · Gemini / Anthropic / OpenAI APIs · OpenClaw
 
 #### Reach me
 
-[LinkedIn](https://linkedin.com/in/aaweg-bhaladhare) · `aaweg.22110711@viit.ac.in`
+[LinkedIn](https://www.linkedin.com/in/aaweg/)·
